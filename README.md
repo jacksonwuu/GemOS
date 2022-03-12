@@ -1,2 +1,2 @@
-# gem-os
+# GemOS
 A OS for study purpose.
